@@ -5,3 +5,4 @@ def name():
 def prime_check():
     pass
 name()
+pass
