@@ -79,8 +79,8 @@ I’m a developer who enjoys solving problems systematically and building softwa
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Se1ke1&show_icons=true&theme=transparent&v=2)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Se1ke1&layout=compact&theme=transparent&v=2)
+![GitHub Stats](https://github-readme-stats-five-tau-95.vercel.app/api?username=Se1ke1&show_icons=true&theme=transparent&v=2)
+![Top Langs](https://github-readme-stats-five-tau-95.vercel.app/api/top-langs/?username=Se1ke1&layout=compact&theme=transparent&v=2)
 
 > If the cards do not render properly, it is usually due to temporary external service or caching issues.
 
