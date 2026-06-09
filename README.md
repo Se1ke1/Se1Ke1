@@ -42,12 +42,19 @@ I’m a developer who enjoys solving problems systematically and building softwa
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
 ### Frontend
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+### Languages & Systems
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### DevOps & Collaboration
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -61,8 +68,8 @@ I’m a developer who enjoys solving problems systematically and building softwa
 
 - Backend systems with Java and Spring Boot  
   Java와 Spring Boot 기반의 백엔드 시스템 개발
-- Product-facing frontend integration with TypeScript  
-  TypeScript 기반의 사용자/관리자 서비스 연동 개발
+- Product-facing frontend integration with TypeScript and React-based stacks  
+  TypeScript 및 React 계열 스택 기반의 사용자/관리자 서비스 연동 개발
 - Deployment and operational maintenance in AWS environments  
   AWS 환경에서의 배포 및 운영 유지보수
 - Building maintainable development workflows for teams  
@@ -70,10 +77,10 @@ I’m a developer who enjoys solving problems systematically and building softwa
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Se1ke1&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Se1ke1&layout=compact&theme=transparent)
+GitHub 통계 카드가 환경에 따라 정상적으로 표시되지 않는 경우가 있어, 현재는 텍스트 중심으로 프로필을 구성했습니다.  
+Some GitHub stats cards can fail to render depending on environment or external service availability, so this profile currently focuses on content-first presentation.
 
 ---
 
